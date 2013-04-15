@@ -6,6 +6,7 @@
 *.synctex.gz
 *.toc
 *.log
+section*
 
 # ignore emacs auto-save files
 *~
